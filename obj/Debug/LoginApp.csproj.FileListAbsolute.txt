@@ -1,0 +1,12 @@
+C:\Users\SHIRINDI\source\repos\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\SHIRINDI\source\repos\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\SHIRINDI\source\repos\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.Form2.resources
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\SHIRINDI\source\repos\LoginApp\obj\Debug\LoginApp.Form3.resources
